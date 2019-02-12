@@ -4,7 +4,8 @@ Simple example to auto start a process once your system one using broadcast.
 
 
 **Add this to your manifest
-'''
+
+```
 <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 <uses-permission android:name="android.permission.WAKE_LOCK" />
 
@@ -27,4 +28,4 @@ Simple example to auto start a process once your system one using broadcast.
  </receiver>
 
  <service android:name="com.pm.herem.AndroidServiceStartOnBoot" />
- '''
+ ```
