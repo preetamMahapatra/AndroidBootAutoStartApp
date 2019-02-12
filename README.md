@@ -26,4 +26,5 @@ Simple example to auto start a process once your system one using broadcast.
          </intent-filter>
  </receiver>
 
- <service android:name="com.pm.herem.AndroidServiceStartOnBoot" />'''
+ <service android:name="com.pm.herem.AndroidServiceStartOnBoot" />
+ '''
