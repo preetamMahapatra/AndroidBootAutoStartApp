@@ -1,5 +1,5 @@
 # AndroidBootAutoStartApp
-Simple example to auto start a process once your system one using broadcast.
+Simple example to auto start a process once your phone restart or ON.
 
 
 
